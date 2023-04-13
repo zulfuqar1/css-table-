@@ -1,0 +1,15 @@
+table,th,td{
+    border :dashed 1px black;
+    border-collapse: collapse;
+}
+head{
+    border : dashed  1px black;
+}
+.blue{
+    background-color: #61ffe5;
+    color: #028771;
+}
+.White{ 
+    background-color: #ffffff;
+     color: #028771;
+    }
